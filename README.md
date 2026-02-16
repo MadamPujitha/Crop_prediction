@@ -1,75 +1,58 @@
-##🌾 Smart Crop Recommendation System
+**🌾 Smart Crop Recommendation System**
 
 A Machine Learning powered web application that recommends the most suitable crop to cultivate based on soil nutrients and environmental conditions.
 
 This project demonstrates end-to-end ML workflow including data preprocessing, model training, evaluation, and deployment using Flask.
 
-🚀 Project Overview
+**🚀 Project Overview**
 
-Selecting the right crop is critical for maximizing agricultural productivity. This application predicts the most suitable crop based on:
+- Selecting the right crop is critical for maximizing agricultural productivity. This application predicts the most suitable crop based on:
 
 Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH value, Rainfall
 
-The system uses supervised machine learning models trained on agricultural data to provide accurate crop recommendations.
+- The system uses supervised machine learning models trained on agricultural data to provide accurate crop recommendations.
 
-🧠 Machine Learning Workflow
+**🧠 Machine Learning Workflow**
 
 The project follows a complete ML pipeline:
 
-Data Cleaning & Preprocessing
+- Data Cleaning & Preprocessing
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Feature Selection
+- Feature Selection
 
-Model Training
+- Model Training
 
-Model Evaluation
+- Model Evaluation
 
-Model Serialization (model.pkl)
+- Model Serialization (model.pkl)
 
-Web Application Integration
+- Web Application Integration
 
-🤖 Models Used
+**🤖 Models Used**
 
 Random Forest Classifier
 
-
-📊 Dataset
+**📊 Dataset**
 
 The dataset contains agricultural parameters such as soil nutrients and climate conditions mapped to crop labels.
 
-Features:
-
-N (Nitrogen)
-
-P (Phosphorus)
-
-K (Potassium)
-
-Temperature
-
-Humidity
-
-pH
-
-Rainfall
-
-Target:
-
-Crop Type
-
-🖥️ Application Features
+**🖥️ Application Features**
 
 ✔ User-friendly web interface
+
 ✔ Real-time prediction
+
 ✔ Clean and responsive UI
+
 ✔ Pre-trained ML model integration
+
 ✔ Flask backend
 
-🏗️ Tech Stack
+**🏗️ Tech Stack**
 
-Frontend:
+**- Frontend:**
 
 HTML
 
@@ -79,7 +62,7 @@ Backend:
 
 Flask (Python)
 
-Machine Learning:
+**- Machine Learning:**
 
 Scikit-learn
 
@@ -89,7 +72,7 @@ NumPy
 
 Matplotlib / Seaborn
 
-📂 Project Structure
+**📂 Project Structure**
 Crop_prediction/
 │
 ├── app.py
@@ -100,7 +83,7 @@ Crop_prediction/
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation & Setup
+**⚙️ Installation & Setup**
 1️⃣ Clone the Repository
 git clone https://github.com/MadamPujitha/Crop_prediction.git
 cd Crop_prediction
