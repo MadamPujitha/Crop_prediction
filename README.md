@@ -1,4 +1,4 @@
-🌾 Smart Crop Recommendation System
+##🌾 Smart Crop Recommendation System
 
 A Machine Learning powered web application that recommends the most suitable crop to cultivate based on soil nutrients and environmental conditions.
 
