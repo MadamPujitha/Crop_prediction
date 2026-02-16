@@ -72,31 +72,26 @@ NumPy
 
 Matplotlib / Seaborn
 
-**📂 Project Structure**
-Crop_prediction/
-│
-├── app.py
-├── model.pkl
-├── Crop_recommendation.csv
-├── templates/
-├── static/
-├── requirements.txt
-└── README.md
-
 **⚙️ Installation & Setup**
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/MadamPujitha/Crop_prediction.git
-cd Crop_prediction
 
 2️⃣ Create Virtual Environment (Optional but Recommended)
+
 python -m venv venv
+
 source venv/bin/activate  # Mac/Linux
+
 venv\Scripts\activate     # Windows
 
 3️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 4️⃣ Run the Application
+
 python app.py
 
 
